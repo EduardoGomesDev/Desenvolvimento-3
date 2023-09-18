@@ -1,0 +1,143 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #F6F9FF;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    text-align: justify;
+}
+
+.principal{
+    text-align: center;
+}
+
+.principal p{
+    text-align: center;
+}
+
+/* div das imagens do marco zero */
+
+.marcozero{
+    display: flex;
+    justify-content: space-around;
+}
+
+/* imagens do marco zero */
+
+.predio{
+    height: 200px;
+    width: 200px;
+}
+
+.placa{
+    height: 200px;
+    width: 200px;
+}
+
+.rio{
+    height: 200px;
+    width: 200px;
+}
+
+/* div das imagens do artesanato */
+
+.artesanato{
+    display: flex;
+    justify-content: space-around;
+}
+
+/* imagens do artesanato */
+
+.art2{
+    height: 200px;
+    width: 200px;
+}
+
+.art1{
+    height: 200px;
+    width: 200px;
+}
+
+.art3{
+    height: 200px;
+    width: 200px;
+}
+
+/* div das imagens do marco zero */
+
+.esculturas{
+    display: flex;
+    justify-content: space-around;
+}
+
+/* imagens do esculturas */
+
+.esc1{
+    height: 200px;
+    width: 200px;
+}
+
+.esc2{
+    height: 200px;
+    width: 200px;
+}
+
+.esc3{
+    height: 200px;
+    width: 200px;
+}
+
+/* div das imagens do frevo */
+
+.frevo{
+    display: flex;
+    justify-content: space-around;
+}
+
+/* imagens do frevo */
+
+.frevo1{
+    height: 200px;
+    width: 200px;
+}
+
+.frevo2{
+    height: 200px;
+    width: 200px;
+}
+
+.frevo3{
+    height: 200px;
+    width: 200px;
+}
+
+/*estilos nas id's*/
+/*
+#tit-marco{
+    background-color: black;
+    color: white;
+}
+
+#tit-centro{
+    background-color: black;
+    color: white;
+}
+
+#tit-parque{
+    background-color: black;
+    color: white;
+}
+
+#tit-frevo{
+    background-color: black;
+    color: white;
+}
+*/
